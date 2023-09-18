@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +13,71 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.icon {
+  font-size: 46px !important;
+  background-color: #E65100 !important;
+  color: #fff;
+  padding: 10px;
+  border-radius: 50%;
+}
+.home {
+  min-height: 100vh;
+  background-image: url('https://picsum.photos/1600/900');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.btn {
+  margin-top: 10px !important;
+  font-weight: bold !important;
+  font-size: 16px !important;
+  margin-top: 20px !important;
+}
+
+.img {
+  width: 170px;
+}
+
+.header {
+  text-align: center;
+  background: #1565C0;
+  color: white;
+  padding: 10px 0;
+  font-family: Girassol;
+}
+
+.patients {
+  width: 650px;
+  margin: 40px auto;
+}
+
+.navbar {
+  height: 120px;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.btnNav {
+  font-family: monospace;
+  font-weight: bold !important;
+  font-size: 20px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
